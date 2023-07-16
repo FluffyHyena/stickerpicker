@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "chyena.json"
+  ],
+  "homeserver_url": "https://sakura.ci"
+}
